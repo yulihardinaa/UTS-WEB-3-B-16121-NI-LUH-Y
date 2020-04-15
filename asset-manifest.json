@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/main.6579b903.chunk.js",
-    "main.js.map": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/main.6579b903.chunk.js.map",
-    "runtime-main.js": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/runtime-main.4814bb1d.js",
-    "runtime-main.js.map": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/runtime-main.4814bb1d.js.map",
-    "static/css/2.69121389.chunk.css": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/2.69121389.chunk.css",
-    "static/js/2.ab7d8b43.chunk.js": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/2.ab7d8b43.chunk.js",
-    "static/js/2.ab7d8b43.chunk.js.map": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/2.ab7d8b43.chunk.js.map",
-    "index.html": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/index.html",
-    "precache-manifest.012cf2ea7bcec22f0b54c17fa171f8ee.js": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/precache-manifest.012cf2ea7bcec22f0b54c17fa171f8ee.js",
-    "service-worker.js": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/2.69121389.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.ab7d8b43.chunk.js.LICENSE.txt": "/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/2.ab7d8b43.chunk.js.LICENSE.txt"
+    "main.css": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/main.ac5b7264.chunk.js",
+    "main.js.map": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/main.ac5b7264.chunk.js.map",
+    "runtime-main.js": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/runtime-main.609f3c55.js",
+    "runtime-main.js.map": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/runtime-main.609f3c55.js.map",
+    "static/css/2.69121389.chunk.css": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/2.69121389.chunk.css",
+    "static/js/2.ab7d8b43.chunk.js": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/2.ab7d8b43.chunk.js",
+    "static/js/2.ab7d8b43.chunk.js.map": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/2.ab7d8b43.chunk.js.map",
+    "index.html": "/UTS-WEB-3-B-16121-NI-LUH-Y/index.html",
+    "precache-manifest.b5b176c5a19d8a5521b642a7bec9285b.js": "/UTS-WEB-3-B-16121-NI-LUH-Y/precache-manifest.b5b176c5a19d8a5521b642a7bec9285b.js",
+    "service-worker.js": "/UTS-WEB-3-B-16121-NI-LUH-Y/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ab7d8b43.chunk.js.LICENSE.txt": "/UTS-WEB-3-B-16121-NI-LUH-Y/static/js/2.ab7d8b43.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4814bb1d.js",
+    "static/js/runtime-main.609f3c55.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.ab7d8b43.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6579b903.chunk.js"
+    "static/js/main.ac5b7264.chunk.js"
   ]
 }
