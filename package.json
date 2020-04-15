@@ -2,6 +2,7 @@
   "name": "uts_web",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://github.com/yulihardinaa/UTS-WEB-3-B-16121-NI-LUH-Y",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
